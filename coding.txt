@@ -1,0 +1,5 @@
+Put simply, Coding is the a method of communicating with 
+a computer. It is using a language that a computer 
+understands to give a computer instructions in order 
+to perform specific functions. Coding allows us to create 
+things such as computer software, websites, apps and video games. 
